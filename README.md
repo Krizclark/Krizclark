@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krizclark
 - 👀 I’m interested in Software Development and general Computer Sciences
-- 🌱 I’m currently learning Python3, JS and HTML  
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ......most oppotunities   
 - 📫 How to reach me ... krizclark@gmail.com
 
